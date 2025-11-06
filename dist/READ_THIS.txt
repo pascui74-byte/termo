@@ -1,0 +1,1 @@
+La cartella dist viene generata con `npm run build` su GitHub Actions o in locale.
